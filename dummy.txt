@@ -1,6 +1,5 @@
 Hallo Welt
-<<<<<<< HEAD
-Hallo, wie geht es dir?
-=======
 Das ist ein Text für bugfix branch
->>>>>>> bugfix
+Hallo, wie geht es dir?
+Das ist ein Text für bugfix branch
+
